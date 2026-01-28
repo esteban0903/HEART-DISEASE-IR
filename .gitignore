@@ -1,0 +1,66 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de salida de Jupyter Notebook
+*.nbconvert.ipynb
+
+# Archivos de configuración de VS Code
+.vscode/
+.vs
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.out
+*.err
+*.swp
+*.swo
+*.DS_Store
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de SageMaker
+*.sagemaker/
+
+# Archivos de datos grandes o temporales
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Archivos de entorno virtual
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# Archivos de compilación
+build/
+dist/
+*.o
+*.so
+*.a
+*.dll
+*.dylib
+*.exe
+
+# Archivos de caché
+.cache/
