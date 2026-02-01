@@ -37,7 +37,6 @@ pip-delete-this-directory.txt
 *.sagemaker/
 
 # Archivos de datos grandes o temporales
-*.csv
 *.tsv
 *.json
 *.xlsx
